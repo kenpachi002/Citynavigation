@@ -1,0 +1,9 @@
+CityID,CityName,X_Coord,Y_Coord
+1,Mumbai,100,320
+2,Delhi,320,80
+3,Bangalore,180,520
+4,Kolkata,540,200
+5,Chennai,380,540
+6,Jaipur,320,240
+7,Pune,100,480
+8,Ahmedabad,520,420
